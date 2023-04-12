@@ -1,0 +1,103 @@
+
+/* img {
+  float: right;
+  margin: 10px;
+} */
+
+* {
+  margin: 0;
+}
+
+.contenedor {
+  background-color: #18181b;
+  height: 100%;
+}
+
+
+/* 
+.contenedor {
+  position: relative;
+}
+
+
+.contenedor {
+  display: flex;
+  flex-wrap: wrap;
+} */ */
+
+.imagen {
+  display: inline-block;
+  width: 50%;
+  height: auto;
+}
+
+
+
+.imagen {
+  display: inline-block;
+  width: 50%;
+  height: auto;
+  object-fit: cover;
+  image-rendering: -webkit-optimize-contrast;
+  }
+  
+  .avion {
+  display: block;
+  margin: 0 auto;
+  border: none;
+  padding: 0;
+  margin-top: 0;
+  padding-top: 0%;
+  width: max-content;
+  height:max-content;
+  width: 1000px;
+  padding-left: 0%;
+  filter: saturate(150%);
+  image-rendering: -webkit-optimize-contrast;
+  }
+
+
+
+
+
+
+
+
+
+
+
+/* .imagen {
+  display: inline-block;
+  width: 50%;
+  height: auto;
+}
+
+
+
+.avion {
+  display: block;
+  margin: 0 auto;
+  border: none;
+  padding: 0;
+  margin-top: 0;
+  padding-top: 0%;
+  width: max-content;
+  height:max-content;
+  width: 1000px;
+  padding-left: 0%;
+  filter: saturate(150%);
+  image-rendering: crisp-edges;
+} */
+
+
+/* .avion{
+  width: max-content;
+  height: 200px;
+}  */
+
+/* Estilos para el pie de página */
+
+
+/* Estilos para los enlaces */  
+
+/* Estilos para el botón */

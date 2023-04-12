@@ -1,0 +1,35 @@
+.landing-page {
+    background-color: #f2f2f2;
+    color: #444;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    background-color: #ddd;
+    padding: 20px;
+  }
+  
+  .title {
+    margin: 0;
+    font-size: 36px;
+  }
+  
+  .main {
+    padding: 40px;
+  }
+  
+  .section-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .footer {
+    background-color: #ccc;
+    padding: 10px;
+  }
+  
+  .copy {
+    margin: 0;
+    font-size: 14px;
+  }
+  
