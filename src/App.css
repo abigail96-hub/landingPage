@@ -57,6 +57,32 @@
   }
 
 
+/* Aplicar estilos para pantallas de hasta 768px de ancho */
+@media (max-width: 768px) {
+  .imagen {
+    width: 100%;
+  }
+  
+  .avion {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+/* Aplicar estilos para pantallas de más de 768px de ancho */
+@media (min-width: 769px) {
+  .imagen {
+    width: 50%;
+  }
+  
+  .avion {
+    width: 1000px;
+    margin: 0 auto;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
 
 
 
